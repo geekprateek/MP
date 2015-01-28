@@ -1,4 +1,4 @@
-MajorProject
+MP
 ============
 
-Contains documents and files relating to major project work
+MP
